@@ -1,8 +1,8 @@
-## Eder Munhoz dos Santos
+## Hello there 🤘
 
 #### About me
 
-Front-end developer with more than 6 years developing interfaces and strong user interface (UI) skills.
+Front-end developer with +6 years developing interfaces and strong user interface (UI) skills.
 
 #### Find me
 
