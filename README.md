@@ -11,6 +11,13 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 - I played in an authorial metal band. You can see [some videos here](https://www.youtube.com/watch?v=73xqyuybYWc&ab_channel=OrckOut) 🎸
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 34 mins   ██████████████████▒░░░░░░   73.58 % 
+JSON         1 hr 50 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+JavaScript   1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
 <!--END_SECTION:waka-->
 
 #### Find me
