@@ -10,6 +10,9 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 - Vegetarian since ~2008. 🌱 🍄
 - I played in an authorial metal band. You can see [some videos here](https://www.youtube.com/watch?v=73xqyuybYWc&ab_channel=OrckOut) 🎸
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### Find me
 
 [![Blog](https://img.shields.io/badge/blog-https%3A%2F%2Federmunhozsantos.com%2F-orange)](https://edermunhozsantos.com)
