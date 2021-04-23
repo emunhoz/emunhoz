@@ -12,11 +12,11 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.16 % 
-HTML         5 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
-CSS          4 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-TypeScript   2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript   6 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.47 % 
+HTML         5 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+CSS          4 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.16 % 
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
