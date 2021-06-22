@@ -6,9 +6,9 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 
 #### Fun facts
 
-- In my first jobs I was designer. You can see [some jobs here](https://www.behance.net/edermunhoz1384). 👨‍💻
+- In my first jobs I was designer. Check this out [some jobs here](https://www.behance.net/edermunhoz1384). 👨‍💻
 - Vegetarian since ~2008. 🌱 🍄
-- I played in an authorial metal band. You can see [some videos here](https://www.youtube.com/watch?v=73xqyuybYWc&ab_channel=OrckOut) 🎸
+- I am a musician and have been a part of a band in the past. Check this out [some videos here](https://www.youtube.com/watch?v=73xqyuybYWc&ab_channel=OrckOut) 🎸
 
 <!--START_SECTION:waka-->
 ```text
