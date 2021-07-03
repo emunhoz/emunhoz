@@ -12,8 +12,7 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 
 <!--START_SECTION:waka-->
 ```text
-JSON         8 mins          ███████████████████░░░░░░   75.67 % 
-Other        2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
