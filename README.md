@@ -12,7 +12,8 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML         23 mins         ██████████████▒░░░░░░░░░░   57.79 % 
+JSON         17 mins         ██████████▒░░░░░░░░░░░░░░   41.67 % 
 ```
 <!--END_SECTION:waka-->
 
