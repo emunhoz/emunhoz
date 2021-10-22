@@ -12,9 +12,9 @@ Front-end developer with +6 years developing interfaces and strong user interfac
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 10 mins  ████████████████████████░   95.71 % 
-JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript   14 hrs 30 mins  ███████████████████████▓░   95.10 % 
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 <!--END_SECTION:waka-->
 
