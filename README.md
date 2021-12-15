@@ -22,7 +22,7 @@
 
 #### 👨‍💻 About me
 
-Currently working as a software engineer (focus on the front end) with over 6 years of experience and worked as a designer for 6 years.
+Currently working as software engineer (focus on the front end) with over 6 years of experience and worked as designer for 6 years.
 
 For that reason (code development + designer experience) I like to work closely ui/ux team looking to help build the best of both worlds and bring it to the products and I believe that this kinda experience can bring out many advantages and facilities when developing products.
 
