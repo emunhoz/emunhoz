@@ -68,9 +68,7 @@ I have a lot of experience creating products from scratch (even designing the pr
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 2 mins     █████████████████████▓░░░   86.88 % 
-Markdown     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+TypeScript   45 mins         █████████████████████████   99.58 % 
 ```
 <!--END_SECTION:waka-->
 
