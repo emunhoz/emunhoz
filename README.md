@@ -68,10 +68,11 @@ I have a lot of experience creating products from scratch (even designing screen
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 58 mins   ██████████████████▓░░░░░░   74.20 % 
-YAML         54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Bash         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript   4 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.79 % 
+YAML         1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.64 % 
+JavaScript   52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+JSON         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
