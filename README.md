@@ -24,7 +24,7 @@
 
 Currently working as a software engineer (focus on front end) with over 6 years of experience and I've worked as a designer for 6 years in my first jobs.
 
-For that reason (code development + designer experience) I like to work closely ui/ux team always looking to help/build the best of both worlds and bring it to the products and I believe that this kinda experience can bring out many advantages and facilities when developing products.
+Combining the art of design with the art of programming I like to work closely ui/ux team always looking to help/build the best of both worlds and bring it to the products and I believe that this kinda experience can bring out many advantages and facilities when developing products.
 
 I have a lot of experience creating products from scratch (even designing screens and components).
 
