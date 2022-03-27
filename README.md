@@ -69,8 +69,7 @@ I have a lot of experience creating products from scratch (even designing screen
 <!--START_SECTION:waka-->
 
 ```text
-YAML   47 mins         ████████████████████████▒   97.20 %
-JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JSON   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
