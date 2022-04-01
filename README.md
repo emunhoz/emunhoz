@@ -69,7 +69,8 @@ I have a lot of experience creating products from scratch (even designing screen
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+INI          0 secs          ███████████████████░░░░░░   76.19 %
+TypeScript   0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.81 %
 ```
 
 <!--END_SECTION:waka-->
