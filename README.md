@@ -22,11 +22,8 @@
 
 #### 👨‍💻 About me
 
-Currently working as a software engineer (focus on front end) with over 6 years of experience and I've worked as a designer for 6 years in my first jobs.
-
-Combining the art of design with the art of programming I like to work closely ui/ux team always looking to help/build the best of both worlds and bring it to the products and I believe that this kinda experience can bring out many advantages and facilities when developing products.
-
-I have a lot of experience creating products from scratch (even designing screens and components).
+Have been working as a software engineer (focused on frontend) for over 6 years while I had been a UX/UI designer for another 6 years before.
+Combining the art of design with the art of programming I like to work closely with ui/ux team always trying to get the best from both worlds and bring it into the product. I believe that my mix of design and programming experience helps me to deliver production ready features.
 
 #### 🌎  Open source projects
 
