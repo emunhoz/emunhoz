@@ -66,11 +66,12 @@ Combining the art of design with the art of programming I like to work closely w
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 hrs 33 mins   ██████████████░░░░░░░░░░░   55.46 %
-JavaScript   5 hrs 58 mins   █████████▓░░░░░░░░░░░░░░░   38.72 %
-Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+JavaScript   9 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.02 %
+TypeScript   6 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   35.28 %
+JSON         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Bash         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
