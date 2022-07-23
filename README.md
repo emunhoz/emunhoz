@@ -66,7 +66,11 @@ Combining the art of design with the art of programming I like to work closely w
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         5 mins          █████████░░░░░░░░░░░░░░░░   35.74 %
+JavaScript   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+HTML         3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+CSS          1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Other        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 ```
 
 <!--END_SECTION:waka-->
