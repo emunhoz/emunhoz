@@ -23,7 +23,6 @@
 #### 👨‍💻 About me
 
 Have been working as a software engineer (focused on frontend) for over 6 years while I had been a UX/UI designer for another 6 years before.
-Combining the art of design with the art of programming I like to work closely with ui/ux team always trying to get the best from both worlds and bring it into the product.
 
 #### 🌎  Open source projects
 
