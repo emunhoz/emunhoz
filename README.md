@@ -65,10 +65,10 @@ Have been working as a software engineer (focused on frontend) for over 6 years 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 38 mins   ███████████░░░░░░░░░░░░░░   44.40 %
-JSON         2 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.67 %
-MDX          34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Other        28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+TypeScript   2 hrs 44 mins   ██████████▒░░░░░░░░░░░░░░   41.65 %
+JSON         2 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   36.74 %
+MDX          41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Other        28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
