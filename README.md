@@ -65,12 +65,12 @@ Have been working as a software engineer (focused on frontend) for over 6 years 
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       8 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.67 %
-TypeScript   3 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-JSON         1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Bash         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Vue.js       7 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   47.11 %
+TypeScript   4 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   31.50 %
+JSON         1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+Bash         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+TSConfig     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
