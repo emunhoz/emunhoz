@@ -20,10 +20,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-#### 👨‍💻 About me
-
-Have been working as a software engineer (focused on frontend) for over 6 years while I had been a UX/UI designer for another 6 years before.
-
 #### 🌎  Open source projects
 
 <table>
