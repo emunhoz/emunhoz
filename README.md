@@ -61,8 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 mins          ████████████████████▒░░░░   80.70 %
-TSConfig     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+TypeScript   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
