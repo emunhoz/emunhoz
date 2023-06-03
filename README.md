@@ -60,7 +60,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   22 mins         ████████████████████░░░░░   79.39 %
 Bash         5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.61 %
 ```
