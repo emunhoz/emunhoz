@@ -49,9 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       4 mins          ████████████████████▒░░░░   81.90 %
-JavaScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Vue.js       19 mins         █████████████████████████   99.68 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
