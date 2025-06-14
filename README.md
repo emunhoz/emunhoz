@@ -14,13 +14,20 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/emunhoz/bot-sabbath"><b>Bot Sabbath</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/emunhoz/bot-sabbath?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/emunhoz/bot-sabbath?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/emunhoz/bot-sabbath?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/emunhoz/bot-sabbath?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/emunhoz/monorepo-boilerplate"><b>Monorepo boilerplate</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/emunhoz/monorepo-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/emunhoz/monorepo-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/emunhoz/monorepo-boilerplate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/emunhoz/monorepo-boilerplate?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/emunhoz/npm-react-module"><b>Template for NPM React Components + TypeScript</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/emunhoz/npm-react-module?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/emunhoz/npm-react-module?style=flat-square&labelColor=343b41"/></td>
